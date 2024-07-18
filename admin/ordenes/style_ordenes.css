@@ -1,0 +1,12 @@
+.card-fondo{
+    display: flex;
+    background-color: rgba(18, 18, 221, 0.473);
+    border:rgba(36, 36, 37, 0.473);
+    border-radius: 3px;
+    padding: 5px;
+    margin: 2px;
+}
+
+.card-{
+    background-color: rgba(127, 168, 255, 0.527);
+}
